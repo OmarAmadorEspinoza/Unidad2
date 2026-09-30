@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://127.0.0.1:5069/dispositivo/Core-SW01
+method: GET
+order: 1790799780580
